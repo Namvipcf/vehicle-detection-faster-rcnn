@@ -1,0 +1,41 @@
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Dataset contents 
+Dataset/train/*.jpg
+Dataset/train/*.png
+Dataset/valid/*.jpg
+Dataset/valid/*.png
+Dataset/test/*.jpg
+Dataset/test/*.png
+Dataset/**/_annotations.coco.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Môi trường ảo
+venv/
+env/
+.venv/
+
+# Kết quả output
+outputs/*.mp4
+outputs/*.avi
+outputs/*.jpg
+outputs/*.png
+temp_pred.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
