@@ -1,4 +1,4 @@
-# 🚗 Phát Hiện Phương Tiện Giao Thông
+# Phát Hiện Phương Tiện Giao Thông
 
 Nhận diện và phân loại phương tiện theo thời gian thực với **Faster R-CNN ResNet-50 FPN**.
 
@@ -11,7 +11,7 @@ Nhận diện và phân loại phương tiện theo thời gian thực với **F
 
 ---
 
-## 📸 Demo
+## Demo
 
 <!-- Thêm ảnh predict mẫu sau khi có kết quả -->
 ![Sample Prediction](outputs/sample_predictions.png)
