@@ -32,7 +32,7 @@ Nhận diện và phân loại phương tiện theo thời gian thực với **F
 ## Cài đặt
 
 ```bash
-git clone https://github.com/Namvipcf/vehicle-detection.git
+git clone https://github.com/Namvipcf/vehicle-detection-faster-rcnn.git
 cd vehicle-detection
 pip install -r requirements.txt
 ```
